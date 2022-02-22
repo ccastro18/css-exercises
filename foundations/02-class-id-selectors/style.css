@@ -1,0 +1,21 @@
+
+.impares{
+    background-color: rgb(240, 57, 118) ;
+    font-family: Verdana, DejaVu Sans,sans-serif ;
+    
+}
+.impares.tres{
+    font-size: 24px;
+}
+
+#segundo{
+    color: blue;
+    font-size: 36px;
+
+}
+#cuarto{
+    background-color: rgb(158, 250, 158);
+    font-size: 24px;
+    font-weight: bold;
+}
+
